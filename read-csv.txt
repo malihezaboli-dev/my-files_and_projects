@@ -1,0 +1,4 @@
+id,fname,lname,town,tell
+1,ali,borhani,kashmar,222222
+2,sadegh,azad,khalilabad,33333
+3,tarokh,tavassoli,tehran,444444
