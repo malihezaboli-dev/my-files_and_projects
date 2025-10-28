@@ -1,0 +1,17 @@
+git init
+git ststus
+git add file1.py
+git commit -m "file1 added"
+git status
+git config --global user.name "malihezaboli-dev"
+git config --global user.email "malihezaboli.edu@gmail.com"
+git remote add origin https://github.com/malihezaboli-dev/new-file.git
+git branch -M main
+git push -u origin main
+---------
+git push --set-upstream origin main
+git fetch origin
+git pull --rebase origin main
+---------
+git push -u origin main
+git pull origin main
